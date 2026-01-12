@@ -32,6 +32,10 @@ The challenge is to:
 ## 🗂 Dataset Information
 **Source:** Kaggle – Fitbit Fitness Tracker Data  
 **Link:** https://www.kaggle.com/datasets/marziabombaci/fitbit-data-for-bellabeat-case-study
+## 🗂 Dataset
+🔗 **Cleaned Dataset (Excel):**  
+**Link:** https://docs.google.com/spreadsheets/d/12UiS2NEzbWaHKIP6cCMVL_KG8c0Ct7tY/edit?usp=sharing&ouid=112119902587485580952&rtpof=true&sd=true
+
 
 ### Tables Used
 - `Facts_DailyActivity`
