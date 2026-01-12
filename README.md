@@ -159,6 +159,7 @@ The Power BI dashboard contains **two pages**:
 - KPI creation and performance comparison
 - Interactive dashboard design using slicers and filters
 ## 📁 Repository Structure
+```text
 fitness-sleep-cycle-analysis/
 │
 ├── Dataset/
@@ -171,6 +172,7 @@ fitness-sleep-cycle-analysis/
 │   └── dashboard.png
 │
 └── README.md
+```
 ## 🚀 Conclusion
 This project demonstrates a practical data analytics workflow by combining **Excel-based data preprocessing** with **Power BI modeling and visualization**. It highlights the ability to clean raw data, create meaningful features, perform time-based analysis, and present insights through interactive dashboards focused on health and lifestyle analytics.
 
