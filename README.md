@@ -167,15 +167,16 @@ The Power BI dashboard contains **two pages**:
 fitness-sleep-cycle-analysis/
 │
 ├── Dataset/
-│   └── fitbit_cleaned_data.xlsx
+│   └── README.md   ← explains external link
 │
 ├── PowerBI_File/
-│   └── fitness_sleep_dashboard.pbix
+│   └── fitness_sleep_dashboard.pbix   (or link in main README)
 │
 ├── Screenshots/
 │   └── dashboard.png
 │
 └── README.md
+
 ```
 ## 🚀 Conclusion
 This project demonstrates a practical data analytics workflow by combining **Excel-based data preprocessing** with **Power BI modeling and visualization**. It highlights the ability to clean raw data, create meaningful features, perform time-based analysis, and present insights through interactive dashboards focused on health and lifestyle analytics.
