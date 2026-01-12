@@ -167,13 +167,15 @@ The Power BI dashboard contains **two pages**:
 fitness-sleep-cycle-analysis/
 │
 ├── Dataset/
-│   └── README.md   ← explains external link
-│
-├── PowerBI_File/
-│   └── fitness_sleep_dashboard.pbix   (or link in main README)
+│   └── README.md
 │
 ├── Screenshots/
+│   ├── README.md
 │   └── dashboard.png
+│
+├── PowerBI_File/
+│   ├── README.md
+│   └── fitness_sleep_dashboard.pbix
 │
 └── README.md
 
